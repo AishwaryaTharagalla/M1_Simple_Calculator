@@ -7,7 +7,7 @@ operation_status addition(int a,int b,int* c){
         return OVERFLOW;
 
     if (sum < INT_MIN)
-        return UNDERFLOW:
+        return UNDERFLOW;
     
     *c = sum;
     return SUCCESS;
@@ -21,7 +21,7 @@ operation_status subtraction(int a,int b,int* c){
         return OVERFLOW;
 
     if (sub < INT_MIN)
-        return UNDERFLOW:
+        return UNDERFLOW;
     
     *c = sub;
     return SUCCESS;
@@ -35,7 +35,7 @@ operation_status multiplication(int a,int b,int* c){
         return OVERFLOW;
 
     if (product < INT_MIN)
-        return UNDERFLOW:
+        return UNDERFLOW;
     
     *c = product;
     return SUCCESS;
@@ -49,7 +49,7 @@ operation_status division(int a,int b,int* c){
         return OVERFLOW;
 
     if (div < INT_MIN)
-        return UNDERFLOW:
+        return UNDERFLOW;
     
     *c = div;
     return SUCCESS;
@@ -63,7 +63,7 @@ operation_status modulus(int a,int b,int* c){
         return OVERFLOW;
 
     if (mod < INT_MIN)
-        return UNDERFLOW:
+        return UNDERFLOW;
     
     *c = mod;
     return SUCCESS;
