@@ -13,4 +13,6 @@
  
 [![Build CI - Linux](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/c-cpp.yml)
 
+[![Cppcheck Analysis](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/cppcheck-analysis.yml)
+
 
