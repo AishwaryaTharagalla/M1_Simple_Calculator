@@ -10,4 +10,7 @@
 
 ![Code Quality](https://api.codiga.io/project/32195/status/svg)
 
+ 
+[![Build CI - Linux](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/c-cpp.yml)
+
 
