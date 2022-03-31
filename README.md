@@ -15,4 +15,6 @@
 
 [![Cppcheck Analysis](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/cppcheck-analysis.yml)
 
+[![Unit testing](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/unit-test.yml/badge.svg)](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/unit-test.yml)
+
 
