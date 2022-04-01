@@ -16,6 +16,8 @@
 
 [![Cppcheck Analysis](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/cppcheck-analysis.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AishwaryaTharagalla/M1_Simple_Calculator/actions/workflows/gitinspector.yml)
+
  
 
 
