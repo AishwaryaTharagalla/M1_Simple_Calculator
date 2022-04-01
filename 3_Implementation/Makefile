@@ -1,5 +1,8 @@
-Build:
-		gcc src/calculator.c ./test/test_calculator.c ./unity/unity.c -I../unity
+main.exe: main.c src/calculator.c
+		gcc -Iinc ./src/calculator.c ./main.c -o main.exe
 
-Run :
-		./a.out
+run : main.exe
+		./main.exe
+
+clean:
+		rm *.exe
